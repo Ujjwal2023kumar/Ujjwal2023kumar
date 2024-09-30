@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ujjwal2023kumar
-- 👀 I’m interested in app development,data science 
-- 🌱 I’m currently learning c language 
+- 👀 I’m interested in web development. 
+- 🌱 I’m currently learning java language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am an engineering student.
 
 <!---
 Ujjwal2023kumar/Ujjwal2023kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
