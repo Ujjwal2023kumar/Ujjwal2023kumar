@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
-<h3 align="center">Aspiring Software Engineer | B.Tech CSE | Java | MERN Stack</h3>
+<h3 align="center">Aspiring Software Engineer | B.Tech CSE ( 9.19 YGPA )| Java | MERN Stack | Passionate about Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /> </p>
 
