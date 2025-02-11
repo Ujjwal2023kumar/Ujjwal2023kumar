@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
 <h3 align="center">Aspiring Software Engineer | B.Tech CSE ( 9.19 YGPA )| Java | MERN Stack | Passionate about Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> </p>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> 
+</p>
 
 - 🌱 I’m currently learning **HTML5, CSS3, MongoDB, Express.js, React.js, Node.js, MySQL, RESTful APIs, WebSocket, WebRTC**
 
@@ -11,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjwal_kumar1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal_kumar1406" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/ujjwal_kumar1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal_kumar1406" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
