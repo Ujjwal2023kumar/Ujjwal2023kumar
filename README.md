@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
-<h3 align="center">Aspiring Software Engineer | B.Tech CSE ( 9.19 YGPA )| Java | MERN Stack | Passionate about Web Development</h3>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" />
-</p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> 
-</p>
+<h1 align="center">Hi, I'm Ujjwal Kumar</h1>
+<h3 align="center">Aspiring Software Engineer | B.Tech CSE | Java | MERN Stack | Passionate about Web Development</h3>
 
 - 🌱 I’m currently learning **HTML5, CSS3, MongoDB, Express.js, React.js, Node.js, MySQL, RESTful APIs, WebSocket, WebRTC**
 
 - 📫 How to reach me **ujjwalkumar14b@gmail.com**
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /></p>
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> </p>
+
+
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2023Kumar&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
