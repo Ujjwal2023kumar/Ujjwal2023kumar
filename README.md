@@ -5,15 +5,6 @@
 
 - 📫 How to reach me **ujjwalkumar14b@gmail.com**
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /></p>
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> </p>
-
-
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2023Kumar&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
@@ -59,4 +50,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
 </p>
+
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2023Kumar&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+
 
