@@ -55,5 +55,4 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /></p>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2023Kumar&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal2023Kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></a>
 
