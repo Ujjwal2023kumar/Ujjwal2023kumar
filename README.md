@@ -57,7 +57,3 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2023Kumar&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal2023Kumar&theme=bright&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ujjwal2023Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
