@@ -28,21 +28,6 @@
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
     </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/python/_static/seaborn_logo.png" alt="seaborn" width="40" height="40"/>
-    </a>
-    <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/python/_static/plotly-logo.png" alt="plotly" width="40" height="40"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
-    </a>
-    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/>
-    </a>
 </p>
 
 # 📊 GitHub Stats:
