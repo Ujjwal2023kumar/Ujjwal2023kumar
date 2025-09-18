@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ujjwal Kumar</h1>
-<h3 align="center">Aspiring Data Analyst | B.Tech CSE | Python | SQL | Data Visualization | Passionate about Data-Driven Insights</h3>
+<h3 align="center">Aspiring Data Scientist | B.Tech CSE | Python | SQL | Data Visualization | Passionate about Data-Driven Insights</h3>
 
 - 🌱 I’m currently learning and working with **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Excel, Power BI, and Tableau** for data analysis and visualization.
 
