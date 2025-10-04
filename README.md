@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Ujjwal Kumar</h1>
-<h3 align="center">Data Scientist | Data Visualization | Machine Learning | Passionate about Data-Driven Insights</h3>
+<h1 align="center">HI, I'M UJJWAL KUMAR</h1>
+<h3 align="center">DATA SCIENTIST | DATA VISUALIZATION | MACHINE LEARNING | PASSIONATE ABOUT DATA-DRIVEN INSIGHTS</h3>
 
 - I’m currently learning and working with **Python, SQL, Pandas, NumPy, Matplotlib, Excel and Power BI** for data analysis and visualization.
 
 - How to reach me **ujjwalkumar14b@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ujjwal_kumar1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal_kumar1406" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LANGUAGES AND TOOLS:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
