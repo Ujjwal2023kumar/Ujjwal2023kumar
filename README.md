@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ujjwal Kumar</h1>
-<h3 align="center">Data Scientist | Python | SQL | Data Visualization | Passionate about Data-Driven Insights</h3>
+<h3 align="center">Data Scientist | Data Visualization | Machine Learning | Passionate about Data-Driven Insights</h3>
 
 - I’m currently learning and working with **Python, SQL, Pandas, NumPy, Matplotlib, Excel and Power BI** for data analysis and visualization.
 
