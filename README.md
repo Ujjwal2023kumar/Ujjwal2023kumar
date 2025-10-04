@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ujjwal Kumar</h1>
 <h3 align="center">Aspiring Data Scientist | B.Tech CSE | Python | SQL | Data Visualization | Passionate about Data-Driven Insights</h3>
 
-- 🌱 I’m currently learning and working with **Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Excel, Power BI, and Tableau** for data analysis and visualization.
+- I’m currently learning and working with **Python, SQL, Pandas, NumPy, Matplotlib, Excel and Power BI** for data analysis and visualization.
 
-- 📫 How to reach me **ujjwalkumar14b@gmail.com**
+- How to reach me **ujjwalkumar14b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
     </a>
 </p>
 
-# 📊 GitHub Stats:
+# GITHUB STATS:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /></p>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a> </p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2023Kumar&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
