@@ -1,7 +1,7 @@
 <h1 align="center">HI, I'M UJJWAL KUMAR</h1>
-<h3 align="center">DATA SCIENTIST | DATA VISUALIZATION | MACHINE LEARNING | PASSIONATE ABOUT DATA-DRIVEN INSIGHTS</h3>
+<h3 align="center">SOFTWARE DEVELOPER | B.TECH CSE | JAVA DSA  | PASSIONATE ABOUT WEB DEVELOPMENT</h3>
 
-- I’m currently learning and working with **Python, SQL, Pandas, NumPy, Matplotlib, Excel and Power BI** for data analysis and visualization.
+- I’m currently learning and working with **Java and Web Development**.
 
 - How to reach me **ujjwalkumar14b@gmail.com**
 
