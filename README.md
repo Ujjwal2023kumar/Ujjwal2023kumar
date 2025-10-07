@@ -50,6 +50,5 @@
 </div>
 
 # GITHUB STATS:
-<p align=center> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal2023kumar&theme=tokyonight&hide_border=false" alt="Ujjwal2023kumar" /><br><br>
-<p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ujjwal2023kumar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Ujjwal2023kumar" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjwal2023kumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ujjwal2023kumar" /><br><br>
+<p align=center> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal2023kumar&hide_border=false" alt="Ujjwal2023kumar" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjwal2023kumar&show_icons=true&locale=en&layout=compact" alt="Ujjwal2023kumar" /><br><br>
