@@ -50,8 +50,6 @@
 </div>
 
 # GITHUB STATS:
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ujjwal2023kumar&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2023kumar" /></p>
-<p align="center"><a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2023kumar" alt="ujjwal2023kumar" /></a></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ujjwal2023Kumar&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal2023Kumar&theme=bright&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align=center> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal2023kumar&theme=tokyonight&hide_border=false" alt="Ujjwal2023kumar" /><br><br>
+<p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ujjwal2023kumar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Ujjwal2023kumar" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjwal2023kumar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Ujjwal2023kumar" /><br><br>
