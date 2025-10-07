@@ -1,11 +1,8 @@
 <h1 align="center">HI, I'M UJJWAL KUMAR</h1>
 <h3 align="center">SOFTWARE DEVELOPER | B.TECH CSE | JAVA DSA  | PASSIONATE ABOUT WEB DEVELOPMENT</h3>
 
-- I’m currently learning and working with **Java and Web Development**.
-
-- How to reach me **ujjwalkumar14b@gmail.com**
-
 <div align="center"><img align="center" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" style="border-radius: 50%;" height=120px width=280px/></div> 
+
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
