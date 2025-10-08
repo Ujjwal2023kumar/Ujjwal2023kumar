@@ -3,11 +3,7 @@
 
 <div align="center"><img align="center" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" style="border-radius: 50%;" height=120px width=280px/></div> 
 
-## CONNECT WITH ME:
-<p align="left">
-<a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ujjwal_kumar1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal_kumar1406" height="30" width="40" /></a>
-</p>
+## CONNECT WITH ME: <a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
 
 ## LANGUAGES AND TOOLS:
 <div align="left">
