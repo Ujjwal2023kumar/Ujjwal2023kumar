@@ -1,5 +1,5 @@
 <h1 align="center">HI, I'M UJJWAL KUMAR</h1>
-<h3 align="center">SOFTWARE DEVELOPER | B.TECH CSE | JAVA DSA  | PASSIONATE ABOUT WEB DEVELOPMENT</h3>
+<h3 align="center">DATA SCIENTIST | MACHINE LEARNING | PASSIONATE ABOUT DATA-DRIVEN INSIGHTS</h3>
 
 <div align="center"><img align="center" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" style="border-radius: 50%;" height=120px width=280px/></div> 
 
