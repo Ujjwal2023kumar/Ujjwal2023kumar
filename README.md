@@ -27,7 +27,3 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
 </div>
-
-## GITHUB STATS:
-<p align=center> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwal2023kumar&hide_border=false" alt="Ujjwal2023kumar" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ujjwal2023kumar&show_icons=true&locale=en&layout=compact" alt="Ujjwal2023kumar" /><br><br>
