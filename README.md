@@ -4,7 +4,7 @@
 
 <div align="left">
 Ever since I wrote my first line of Python code, I’ve been fascinated by how data — something so ordinary — can tell extraordinary stories. What began as curiosity about how Netflix recommends shows soon turned into a deep passion for uncovering patterns, predicting outcomes, and solving real-world problems through data.
-
+< br/>
 During my journey as a Computer Science student at Dr. A.P.J. Abdul Kalam Technical University, I’ve been building a strong foundation in Python, SQL, statistics, and machine learning. Each project I take on is a small step toward mastering the art of transforming raw data into meaningful insights — from analyzing cricket performance trends in Power BI to exploring algorithms that power intelligent decisions.
 
 What excites me most is the intersection of logic and creativity — where numbers meet narratives. I enjoy turning messy datasets into clear visual stories and discovering insights that can make a real impact.
