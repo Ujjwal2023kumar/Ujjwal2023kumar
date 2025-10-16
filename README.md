@@ -1,8 +1,7 @@
 <h1 align="center">HI, I'M UJJWAL KUMAR</h1>
 <h3 align="center">DATA SCIENTIST | MACHINE LEARNING | PASSIONATE ABOUT DATA-DRIVEN INSIGHTS</h3>
 
-## CONNECT WITH ME: 
-<a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
+
 
 ## LANGUAGES AND TOOLS:
 <div align="left">
@@ -24,4 +23,5 @@
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
+  <a href="https://linkedin.com/in/ujjwalkumar2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalkumar2005" height="30" width="40" /></a>
 </div>
