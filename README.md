@@ -9,12 +9,19 @@ Ever since I wrote my first line of Python code, I’ve been fascinated by how d
 <div align="left">
 During my journey as a Computer Science student at Dr. A.P.J. Abdul Kalam Technical University, I’ve been building a strong foundation in Python, SQL, statistics, and machine learning. Each project I take on is a small step toward mastering the art of transforming raw data into meaningful insights — from analyzing cricket performance trends in Power BI to exploring algorithms that power intelligent decisions.
 </div>
-
+<br/>
+<div align="left">
 What excites me most is the intersection of logic and creativity — where numbers meet narratives. I enjoy turning messy datasets into clear visual stories and discovering insights that can make a real impact.
+</div>
+<br/>
+<div align="left">
+Beyond the code, I’m someone who believes in continuous learning, collaboration, and curiosity — whether that means experimenting with a new model, reading about emerging AI trends, or connecting with others who share the same enthusiasm for data-driven problem solving. 
+</div>
+<br/>
+<div align="left">
+I’m currently exploring opportunities where I can apply and expand my skills in data science, analytics, and machine learning, while contributing to impactful, data-informed projects.  
+</div>
 
-Beyond the code, I’m someone who believes in continuous learning, collaboration, and curiosity — whether that means experimenting with a new model, reading about emerging AI trends, or connecting with others who share the same enthusiasm for data-driven problem solving.
-
-I’m currently exploring opportunities where I can apply and expand my skills in data science, analytics, and machine learning, while contributing to impactful, data-informed projects.
 
 
 ## TOOLS AND TECHNOLOGY:
