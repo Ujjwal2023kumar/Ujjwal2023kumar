@@ -15,7 +15,7 @@ What excites me most is the intersection of logic and creativity — where numbe
 </div>
 <br/>
 <div align="left">
-Beyond the code, I’m someone who believes in continuous learning, collaboration, and curiosity — whether that means experimenting with a new model, reading about emerging AI trends, or connecting with others who share the same enthusiasm for data-driven problem solving. 
+Beyond the code, I’m someone who believes in continuous learning, collaboration, and curiosity — whether that means experimenting with a new model, reading about AI trends, or connecting with others who share the same enthusiasm for data-driven problem solving. 
 </div>
 <br/>
 <div align="left">
