@@ -3,7 +3,7 @@
 
 
 <div align="left">
-Ever since I wrote my first line of Python code, I’ve been fascinated by how data — something so ordinary — can tell extraordinary stories. What began as curiosity about how Netflix recommends shows soon turned into a deep passion for uncovering patterns, predicting outcomes, and solving real-world problems through data.<br/>
+Ever since I wrote my first line of Python code, I’ve been fascinated by how data can tell extraordinary stories. What began as curiosity about how Netflix recommends shows soon turned into a deep passion for uncovering patterns, predicting outcomes, and solving real-world problems through data.<br/>
 </div>
 <br/>
 <div align="left">
