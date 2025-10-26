@@ -7,7 +7,7 @@ Ever since I wrote my first line of Python code, I’ve been fascinated by how d
 </div>
 <br/>
 <div align="left">
-During my journey as a Computer Science student, I’ve been building a strong foundation in Python, SQL, statistics, and machine learning. Each project I take on is a small step toward mastering the art of transforming raw data into meaningful insights — from analyzing data to exploring algorithms that power intelligent decisions.
+During my journey as a Computer Science student, I’ve been building a strong foundation in Python, SQL, statistics, and machine learning. Each project I take on is a small step toward mastering the art of transforming raw data into meaningful insights.
 </div>
 <br/>
 <div align="left">
