@@ -19,7 +19,7 @@ Beyond the code, I’m someone who believes in continuous learning, collaboratio
 </div>
 <br/>
 <div align="left">
-I’m currently exploring opportunities where I can apply and expand my skills in data science, analytics, and machine learning, while contributing to impactful, data-informed projects.  
+I’m currently exploring opportunities where I can apply and expand my skills in data science and machine learning, while contributing to impactful, data-informed projects.  
 </div>
 
 
