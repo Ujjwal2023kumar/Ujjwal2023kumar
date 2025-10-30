@@ -1,5 +1,5 @@
 <h1 align="center">HI, I'M UJJWAL KUMAR</h1>
-<h3 align="center">DATA SCIENTIST | MACHINE LEARNING | PASSIONATE ABOUT DATA-DRIVEN INSIGHTS</h3>
+<h3 align="center">DATA SCIENTIST | MACHINE LEARNING</h3>
 
 <div align="left">
 Ever since I wrote my first line of Python code, I’ve been fascinated by how data tells stories. What began with curiosity about Netflix recommendations grew into a passion for uncovering patterns and predicting outcomes through data.<br/>
