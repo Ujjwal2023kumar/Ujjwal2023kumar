@@ -1,28 +1,14 @@
 <h1 align="center">HI, I'M UJJWAL KUMAR</h1>
 <h3 align="center">DATA SCIENTIST | MACHINE LEARNING | PASSIONATE ABOUT DATA-DRIVEN INSIGHTS</h3>
 
-
 <div align="left">
-Ever since I wrote my first line of Python code, I’ve been fascinated by how data can tell extraordinary stories. What began as curiosity about how Netflix recommends shows soon turned into a deep passion for uncovering patterns and predicting outcomes through data.<br/>
+Ever since I wrote my first line of Python code, I’ve been fascinated by how data tells stories. What began with curiosity about Netflix recommendations grew into a passion for uncovering patterns and predicting outcomes through data.<br/>
 </div>
 <br/>
-<div align="left">
-During my journey as a Computer Science student, I’ve been building a strong foundation in Python, SQL, statistics, and machine learning. Each project I take on is a small step toward mastering the art of transforming raw data into meaningful insights.
-</div>
+<div align="left">As a Computer Science student, I’ve built a strong foundation in Python, SQL, statistics, and machine learning, using each project to turn raw data into meaningful insights. I love the blend of logic and creativity — transforming messy datasets into clear visual narratives.</div>
 <br/>
-<div align="left">
-What excites me most is the intersection of logic and creativity — where numbers meet narratives. I enjoy turning messy datasets into clear visual stories and discovering insights that can make a real impact.
-</div>
+<div align="left">I’m driven by curiosity, collaboration, and continuous learning, and I’m now seeking opportunities to apply and expand my data science and machine learning skills on impactful projects.</div>
 <br/>
-<div align="left">
-Beyond the code, I’m someone who believes in continuous learning, collaboration, and curiosity — whether that means experimenting with a new model, reading about AI trends, or connecting with others who share the same enthusiasm for data-driven problem solving. 
-</div>
-<br/>
-<div align="left">
-I’m currently exploring opportunities where I can apply and expand my skills in data science and machine learning, while contributing to impactful, data-informed projects.  
-</div>
-
-
 
 <h3 align="left">TOOLS AND TECHNOLOGY</h3>
 <div align="left">
