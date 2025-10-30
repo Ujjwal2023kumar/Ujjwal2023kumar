@@ -1,4 +1,4 @@
-<h1 align="center">HI, I'M UJJWAL KUMAR</h1>
+<h1 align="center">UJJWAL KUMAR</h1>
 <h3 align="center">DATA SCIENTIST | MACHINE LEARNING</h3>
 
 <div align="left">
